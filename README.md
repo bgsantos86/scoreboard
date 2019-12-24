@@ -3,7 +3,7 @@ React is a JavaScript library for building user interfaces. React makes building
 
 **What you'll learn**
 - [x] JSX
-- [] Props
-- [] State
-- [] Components
-- [] Events
+- [ ] Props
+- [ ] State
+- [ ] Components
+- [ ] Events
